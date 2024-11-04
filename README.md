@@ -61,7 +61,7 @@ generator = ComplimentGenerator()
 7. list_languages()
 
 ### Available Functions: 
-compliment(name): Retunrs a random compliment for the given name:
+compliment(name): Returns a random compliment for the given name:
 ```
 from BohanCompliment import compliment
 print(compliment("Alice"))
@@ -77,7 +77,7 @@ print(personalized_compliment("Bob", "sense of humor"))
 # Output: Bob, your sense of humor is truly remarkable!
 ```
 
-multi_compliment(name, count): returns multiple compliments
+multi_compliment(name, count): Returns multiple compliments
 ```
 from BohanCompliment import multi_compliment
 compliments = multi_compliment("Charlie", 3)
