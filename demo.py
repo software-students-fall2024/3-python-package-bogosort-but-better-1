@@ -38,7 +38,7 @@ def main():
     
     #generate a compliment in a specific language
     print("4. Compliment in Different Languages:")
-    languages = ['en', 'es', 'fr', 'de', 'it', 'jp']  # Including an unsupported language 'jp'
+    languages = ['en', 'es', 'fr', 'de', 'it', 'jp']  #including an unsupported language 'jp'
     for lang in languages:
         try:
             comp_lang = cg.compliment_in_language(name, lang)
