@@ -15,7 +15,7 @@ A fun Python package that generates random compliments to brighten your day.
 
 ## Description
 
-**BohanCompliment** is a delightful Python package designed to generate random compliments. Whether you need a quick boost or want to share kind words with friends and colleagues, BohanCompliment provides a variety of functions to suit your needs. With support for multiple languages and personalized messages, it's a versatile tool for spreading positivity.
+**BohanCompliment** is a Python package designed to generate random compliments. Whether you need a quick boost or want to share kind words with friends and colleagues, BohanCompliment provides a variety of functions to suit your needs. With support for multiple languages and personalized messages, it's a versatile tool for spreading positivity.
 
 ## PyPI Page
 
