@@ -93,7 +93,7 @@ print(compliment_in_language("Eve", "de"))
 ```
 
 ## Contributing
-To contribute to this project, here are the folliwng steps:
+To contribute to this project, here are the following steps:
 
 Clone the GitHub repository
 ```
